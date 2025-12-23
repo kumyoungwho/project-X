@@ -10,7 +10,7 @@ import base64
 
 
 DB_PATH = "DB.xlsx" 
-INTRO_GIF = "introvideo.gif"
+INTRO_GIF = "intro_raw.gif"
 # BACK_IMG = "background.png"
 
 
